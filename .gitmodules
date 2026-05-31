@@ -5,8 +5,8 @@
 [submodule "ptestR"]
 	path = ptestR
 	url = https://github.com/CoDe-Neuro/ptestR
-	branch = *release
+	branch = v0.1.0
 [submodule "stateR"]
 	path = stateR
 	url = https://github.com/CoDe-Neuro/stateR
-	branch = *release
+	branch = v0.1.0
