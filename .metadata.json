@@ -1,0 +1,10 @@
+[
+  {
+    "package": "stateR",
+    "releasetag": true
+  },
+  {
+    "package": "ptestR",
+    "releasetag": true
+  }
+]

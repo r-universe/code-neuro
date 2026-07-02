@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/code-neuro/code-neuro.r-universe.dev
 	branch = HEAD
+[submodule "ptestR"]
+	path = ptestR
+	url = https://github.com/CoDe-Neuro/ptestR
+	branch = *release
+[submodule "stateR"]
+	path = stateR
+	url = https://github.com/CoDe-Neuro/stateR
+	branch = *release
